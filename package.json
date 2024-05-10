@@ -1,0 +1,14 @@
+{
+    "name": "wantsomecspapp",
+    "version": "1.0.0",
+    "description": "Wantsome CSP App",
+    "engines": {
+        "node": ">=18.14 <20.11",
+        "npm": ">=9.3.1 <=10.2.4"
+    },
+    "license": "UNLICENSED",
+    "main": "index.js",
+    "dependencies": {
+        "express": "^4.19.2"
+    }
+}
